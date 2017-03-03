@@ -1,0 +1,7 @@
+CSV file columns:
+
+Frame number, Number of people in that frame
+
+How to get the time in video from frame number:
+
+time = ( frame number / fps ) (fps for this video approx = 29.97)
